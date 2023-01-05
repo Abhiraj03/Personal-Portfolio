@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/Personal-Portfolio/static/css/main.b817e996.css",
-    "main.js": "/Personal-Portfolio/static/js/main.081fb51e.js",
+    "main.js": "/Personal-Portfolio/static/js/main.1d98bd08.js",
     "static/media/SeaProfile.jpg": "/Personal-Portfolio/static/media/SeaProfile.35fe613915c51dd2909c.jpg",
     "static/media/E_Learning_Lab.png": "/Personal-Portfolio/static/media/E_Learning_Lab.112a6739647ac6b80150.png",
     "static/media/Candy_Time.png": "/Personal-Portfolio/static/media/Candy_Time.68354f3bc31348e47a40.png",
     "static/media/Resume.pdf": "/Personal-Portfolio/static/media/Resume.f477fa9000a60b7f511e.pdf",
+    "static/media/Quizzical.png": "/Personal-Portfolio/static/media/Quizzical.572b3d9293a1ebb2b226.png",
     "static/media/DungeonTime.png": "/Personal-Portfolio/static/media/DungeonTime.e3a2e32717bf5fee62f2.png",
     "static/media/hackerPic.png": "/Personal-Portfolio/static/media/hackerPic.4139a130dd524bc9a85d.png",
     "static/media/port6.jpg": "/Personal-Portfolio/static/media/port6.63766ac864a812e818b9.jpg",
-    "static/media/port4.jpg": "/Personal-Portfolio/static/media/port4.c23bd5e3a6e0fe3969c7.jpg",
     "static/media/port5.jpg": "/Personal-Portfolio/static/media/port5.3e355caf11cc8da7c6c3.jpg",
     "static/media/client1.jpg": "/Personal-Portfolio/static/media/client1.9e6b45977d24f669d61d.jpg",
     "static/media/client3.jpg": "/Personal-Portfolio/static/media/client3.817ca547ae31257e08fd.jpg",
     "static/media/client2.jpg": "/Personal-Portfolio/static/media/client2.274235f6ac5603a45cf9.jpg",
     "index.html": "/Personal-Portfolio/index.html",
     "main.b817e996.css.map": "/Personal-Portfolio/static/css/main.b817e996.css.map",
-    "main.081fb51e.js.map": "/Personal-Portfolio/static/js/main.081fb51e.js.map"
+    "main.1d98bd08.js.map": "/Personal-Portfolio/static/js/main.1d98bd08.js.map"
   },
   "entrypoints": [
     "static/css/main.b817e996.css",
-    "static/js/main.081fb51e.js"
+    "static/js/main.1d98bd08.js"
   ]
 }
